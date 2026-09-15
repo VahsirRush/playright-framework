@@ -6,6 +6,10 @@ End-to-end UI test framework for [Sauce Demo](https://www.saucedemo.com/), built
 Sauce Demo is a public practice e-commerce site, which makes it a good target for building
 and demonstrating a maintainable test automation framework.
 
+This project was originally completed between February 2025 and March 2025 in association
+with the University of San Francisco (USFCA). It was reworked and published to GitHub in
+September 2026.
+
 ## Tech stack
 
 - [Playwright Test](https://playwright.dev/docs/intro) — test runner, browsers, assertions, reporting
